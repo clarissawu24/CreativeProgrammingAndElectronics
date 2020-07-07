@@ -1,2 +1,2 @@
 **Portrait**
-![](portrait.jpg)
+![](portrait.png)
