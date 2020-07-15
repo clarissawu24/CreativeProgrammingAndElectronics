@@ -1,1 +1,1 @@
-![](<img src= "game_preview.png" width>)
+![](game_preview.png){:height="50%" width="50%"}
