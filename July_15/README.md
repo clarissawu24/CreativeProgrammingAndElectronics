@@ -1,1 +1,1 @@
-![raindrop](game_preview.png)
+![](game_preview.png = 250x250)
