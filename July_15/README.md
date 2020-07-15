@@ -1,1 +1,1 @@
-![raindrop](game_preview.jpg)
+![raindrop](game_preview.png)
