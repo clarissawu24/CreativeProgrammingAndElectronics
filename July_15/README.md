@@ -1,1 +1,1 @@
-![](game_preview.png = 250x250)
+![](game_preview.png width="250" height="250")
