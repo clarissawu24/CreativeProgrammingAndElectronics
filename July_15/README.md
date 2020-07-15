@@ -1,1 +1,1 @@
-![](game_preview.png){:height="50%" width="50%"}
+![](game_preview.png s=200)
