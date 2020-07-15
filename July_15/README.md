@@ -1,2 +1,1 @@
-
-![](game preview.png)
+![](game_preview.png)
