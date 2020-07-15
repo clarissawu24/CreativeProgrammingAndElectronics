@@ -1,2 +1,2 @@
 
-![](game_preview.png | width=100)
+![](game preview.png)
