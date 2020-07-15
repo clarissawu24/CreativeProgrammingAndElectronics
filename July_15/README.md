@@ -1,1 +1,1 @@
-![](<img src= "game_preview.png" width="250" height="250">)
+![](<img src= "game_preview.png" width>)
