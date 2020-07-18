@@ -1,0 +1,64 @@
+Oscil[] oscil = new Oscil[10];
+import ddf.minim.*;
+
+Minim minim;
+AudioInput in;
+
+
+void setup() {
+  size(600, 400);
+  background(0);
+  for (int i = 0; i < oscil.length; i++) {
+    oscil[i] = new Oscil();
+  }
+}
+
+void draw() { 
+
+  background(0);
+
+  for (int i = 0; i < oscil.length; i++) {
+    oscil[i].oscillate();
+    oscil[i].display();
+  }
+}
+
+class Oscil {
+  PVector angle; 
+  PVector velocity;
+  PVector amplitude;
+  
+  Oscil() {
+    angle = new PVector();
+    velocity = new PVector(random(-0.05, 0.05), random(-0.05, 0.05));
+    amplitude = new PVector(random(width/2), random(height/2));
+  }
+  
+  void oscillate() {
+    angle.add(velocity);
+  }
+
+  void display() {
+    float x = sin(angle.x)*amplitude.x;
+    float y = sin(angle.y)*amplitude.y;
+
+    pushMatrix();
+    translate(width/2, height/2);
+    stroke(255);
+    fill(175);
+    line(0,0,x,y);
+    //ellipse(x,y,16,16);
+    //line(0, 0, x, y);
+    //noFill();
+    
+    for(int i = 0; i < in.bufferSize()-1; i++)
+    {
+      stroke(255, 255-(in.right.get(i)*40), 255-(in.left.get(i)*100));
+      ellipse(x, y, 8+(in.right.get(i)*50), 8+(in.left.get(i)*50));
+    }
+    popMatrix();
+  }
+}
+
+
+[Code Credit Link](https://www.youtube.com/watch?v=5ES12wTl48g&list=RD5ES12wTl48g&index=4)
