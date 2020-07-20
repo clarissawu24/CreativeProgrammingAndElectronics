@@ -22,6 +22,7 @@ Conditionals were used:
 
 
 ***Interesting Finds***
+- The rain game initially contained line-like rain like in my previous assignment, but I had trouble finding the right formula to calculate the distance between the line distance and the catcher. I learned that rather than comparing the postion distances between the two, creating rain in the form of circular dots and the circular catcher and then comparing the radius was a lot easier. 
 - I learned a lot about bufferSize, this was the main functioned use to create the audio visualizers in my program. It was a lot of fun playing around with different values to see how the buffer size (time it took audio iput to be processed) could affect the size and color change based on a designated size-amplifying value. I found that the buffer size was more drastic and created more color and size effects when the input was a drum brass (the tsk tsk beat in the background of most songs). And vocal volume increases created a more smooth transition in buffer size so the circles were more filled in and smooth when growing. Whereas the drum bass beats resulted in more incremental growing effects that looked like colorful rings. 
 
 
