@@ -8,7 +8,7 @@ Meticulously placing each wire and component onto the bread board was the most s
 
 ***Schematic***
 
-![](schematic.jpeg)
+![](schematic.jpg)
 
 ***Project Photo***
 
