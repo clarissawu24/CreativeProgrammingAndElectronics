@@ -13,9 +13,10 @@ This project consists of 4 buttons which make the music notes of G, A, B and D t
 
 ***Process***
 
-***Schematic*** 
+***Project Image***
 
 ***Link to video*** 
 [instrument video](https://youtu.be/RgEzpMnkCD0) 
 
-
+***Schematic*** 
+![](instrument_schematic.jpeg)
