@@ -11,13 +11,14 @@ The process involved a lot of trial and error. As well as finding a system to av
 - I also initially had trouble trying to get the servo to rotate according to the potentiometer. I realized that in addition to maping the potentiometer values to the servo, adding a delay function to allow the servo some time to reach a certain point before changing its position again was needed. I set the delay to a really small number (15) to let it adjust quickly, it's barely noticeable. 
 - A trick I learned while organizing the wires to prevent losing track of what they are connected to is to place a piece of tape on the wire I'm currently working with. It also prevents me from pulling out the wrong wire and having to look where to put it back. 
 
-***Project Image:***
-![](side.jpeg s=200)
-![](top.jpeg s=200)
-
-
 ***Link to video:*** 
 [instrument video](https://youtu.be/RgEzpMnkCD0) 
 
 ***Schematic:*** 
 ![](instrument_schematic.jpeg)
+
+***Project Image:***
+![](side.jpeg)
+![](breadboard.jpeg)
+![](arduino.jpeg)
+
