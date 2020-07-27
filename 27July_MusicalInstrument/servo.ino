@@ -59,6 +59,5 @@ void loop() {
   val = analogRead(potpin);            // READ POTENTIOMETER (value between 0 and 1023)
   val = map(val, 0, 1023, 0, 180);     // SCALE TO SERVO VALUES (value between 0 and 180)
   myservo.write(val);                  // SET SERVO POSITION BASED ON SCALED VALUES
-  delay(15);                           // WAIT FOR SERVO TO GET TO POSITION 
 
 }
