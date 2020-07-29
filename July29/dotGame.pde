@@ -1,12 +1,12 @@
+// This is an audio visualizer with an added game in the form of catching dots 
+
 ////////////////// ARDUINO IMPORTS ///////////////////
 
 import processing.serial.*;
 
   Serial myPort;        // The serial port
-  float radius = 0;      // radius of circle
+  float radius = 0;      // radius of catcher circle
   
-  
-// This is an audio visualizer with an added game in the form of catching dots 
 
 ////////////////// IMPORTS AND CLASS CALLS ///////////////////
 import ddf.minim.*;         
@@ -182,16 +182,13 @@ class Dot {
     score = score + 1;       // update score per dot caught 
   }
 }
-
+/// READ POTENTIOMETER /// 
   void serialEvent (Serial myPort) {
-    // get the ASCII string:
-    String inString = myPort.readStringUntil('\n');
+    String inString = myPort.readStringUntil('\n');                // get the ASCII string:
 
     if (inString != null) {
-      // trim off any whitespace:
-      inString = trim(inString);
-      // convert to an int and map to the screen height:
-      radius = float(inString);
+      inString = trim(inString);                                   // trim off any whitespace
+      radius = float(inString);                                    // convert to a float and map potentiometer min and max values to desired min and max radius of catcher circle 
       println(radius);
       radius = map(radius, 0, 1023, 0, 45);
     }
