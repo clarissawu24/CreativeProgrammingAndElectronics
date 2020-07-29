@@ -4,6 +4,10 @@
 
 ***Project Photos*** 
 
+![](project.jpeg)
+![](processing.png)
+![](project_layout.jpeg)
+
 ***Schematic***
 
 ***Reference***
