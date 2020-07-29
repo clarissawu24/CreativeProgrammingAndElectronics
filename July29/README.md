@@ -16,6 +16,8 @@ I had a lot of fun playing around which component of the game to use the potenti
 
 ***Schematic***
 
+![](schematic.jpeg)
+
 ***Reference***
 
 [Arduino to Processing - Graph Example](https://www.arduino.cc/en/tutorial/graph) 
