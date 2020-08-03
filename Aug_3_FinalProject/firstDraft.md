@@ -10,10 +10,17 @@ Since his pieces require the use of exactly measured and cut wood, I'm not sure 
 - Arduino proximity detecter: for the element of iteraction where your distance will effect the amplitude of the wave
 - Motors: to move the dowels to create the waves 
 - Strings: for positioning and holding things together 
-- Hot glue gun/tape: to secure elements in place 
+- Hot glue gun/tape: to secure elements in place
 
-**Process** 
+***Sketch***
+![](sketch.jpeg)
 
+***Process*** 
+Inspired by Reuben Margolin's ["Square Wave"](https://www.reubenmargolin.com/waves/square-wave/) and Janet Echelman's [net sculptures](https://www.echelman.com/), I am aiming to create an interactive wave using where the closer a person is to the wave, the more amplified (or higher) the waves become. By using the proximity detector I can map the distance values to the motor rotation angle values and increase and decrease them respectively. I'm hoping I will have time to incorporate the LED's as well where the LED will emit more light as the person gets closer to the wave as well. 
+
+***Inspiration***
+![](echelman.jpg)
+![](margolin.jpg)
 
 
 
