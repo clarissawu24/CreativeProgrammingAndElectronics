@@ -12,11 +12,13 @@ Since his pieces require the use of exactly measured and cut wood, I'm not sure 
 - Strings: for positioning and holding things together 
 - Hot glue gun/tape: to secure elements in place
 
-***Sketch***
-![](sketch.jpeg)
 
 ***Process*** 
+
 Inspired by Reuben Margolin's ["Square Wave"](https://www.reubenmargolin.com/waves/square-wave/) and Janet Echelman's [net sculptures](https://www.echelman.com/), I am aiming to create an interactive wave using where the closer a person is to the wave, the more amplified (or higher) the waves become. By using the proximity detector I can map the distance values to the motor rotation angle values and increase and decrease them respectively. I'm hoping I will have time to incorporate the LED's as well where the LED will emit more light as the person gets closer to the wave as well. 
+
+***Sketch***
+![](sketch.jpeg)
 
 ***Inspiration***
 ![](echelman.jpg)
