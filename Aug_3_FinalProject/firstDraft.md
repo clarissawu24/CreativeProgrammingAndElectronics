@@ -15,7 +15,7 @@ Since his pieces require the use of exactly measured and cut wood, I'm not sure 
 
 ***Process*** 
 
-Inspired by Reuben Margolin's ["Square Wave"](https://www.reubenmargolin.com/waves/square-wave/) and Janet Echelman's [net sculptures](https://www.echelman.com/), I am aiming to create an interactive wave using dowels holding a mesh cloth to create wave patterns when the dowels are rotated by the motors at different angles. The closer a person is to the wave sculpture, the more amplified (or higher) the waves become. By using the proximity detector I can map the distance values to the motor rotation angle values and increase and decrease them respectively. I'm hoping I will have time to incorporate the LED's as well where the LED will emit more light as the person gets closer to the wave as well. 
+Inspired by Reuben Margolin's ["Square Wave"](https://www.reubenmargolin.com/waves/square-wave/) and Janet Echelman's [net sculptures](https://www.echelman.com/), I am aiming to create an interactive wave using dowels holding a mesh cloth to create wave patterns when the dowels are rotated by the motors at different angles. I realize in order for the motors to be able to rotate the dowels, there will need to be some anchor for the dowls to rest on as it's being rotated, this will require some experimenting. For the interactive aspect, the closer a person is to the wave sculpture, the more amplified (or higher) the waves become. By using the proximity detector I can map the distance values to the motor rotation angle values and increase and decrease them respectively. I'm hoping I will have time to incorporate the LED's as well where the LED will emit more light as the person gets closer to the wave as well. 
 
 ***Sketch***
 ![](sketch.jpeg)
