@@ -28,6 +28,7 @@ Janet Echelman: "1.26" 2017
 ![](echelman.jpg)
 
 Reuben Margolin: "Square Wave" 2005
+
 ![](margolin.jpg)
 
 
