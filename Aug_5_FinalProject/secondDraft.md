@@ -5,7 +5,7 @@ My project proposal for an Interactive Wave is inspired by Reuben Margolin's "Sq
 ***Risks to Consider***
 - finding wood or long and thin boxes to encase servos, proximity detector, and breadboard for the interactive wave, it would also have to be strong enough to allow cloth hang with string below: I'd have to experiment with some cardboard boxes laying around at home or cut some styrofoam
 - figure out how to extend wiring and power servos in the the other encasing where breadboard is not placed 
-- learn how to use the map function on the proximity detector to translate the values to the servos, I believe this will be the longest process of all and will require some research and help from instructors: If I find it hard to use the proximity detector I will test the ultrasonic sensor, I also found this tutorial and will be testing it out ([Servo motor and ultrasonic sensor](https://create.arduino.cc/projecthub/ryujenny3/servo-motor-ultrasonic-sensor-f951fe))
+- learn how to use the map function on the proximity detector to translate the values to the servos, I believe this will be the longest process of all and will require some research and help from instructors:  I also found this tutorial and will be testing it out ([Servo motor and ultrasonic sensor](https://create.arduino.cc/projecthub/ryujenny3/servo-motor-ultrasonic-sensor-f951fe))
 
 ***Material***
 
