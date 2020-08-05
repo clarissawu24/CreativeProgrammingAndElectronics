@@ -9,14 +9,14 @@ My project proposal for an Interactive Wave is inspired by Reuben Margolin's "Sq
 
 ***Material***
 
-Mesh cloth: to be the wave
-LED neopixels: to add color to the wave
-Arduino: to program and assemble 
-Breadboard: for organization 
-Arduino proximity detecter: for the element of iteraction where your distance will effect the amplitude of the wave
-Motors: to move the strings to create the waves
-Strings: for positioning and holding and moving the mesh cloth
-Hot glue gun/tape: to secure elements in place
+-Mesh cloth: to be the wave
+-LED neopixels: to add color to the wave
+-Arduino: to program and assemble 
+-Breadboard: for organization 
+-Arduino proximity detecter: for the element of iteraction where your distance will effect the amplitude of the wave
+-Motors: to move the strings to create the waves
+-Strings: for positioning and holding and moving the mesh cloth
+-Hot glue gun/tape: to secure elements in place
 
 ***Sketch***
 
