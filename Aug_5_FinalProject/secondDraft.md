@@ -20,3 +20,16 @@ Hot glue gun/tape: to secure elements in place
 
 ***Sketch***
 
+![](sketch.jpeg)
+
+***Inspiration***
+
+Reuben Margolin "Square Wave" 
+
+![](margolin.jpg)
+
+Janet Echelman "1.26" 
+
+![](echelman.jpg)
+
+
