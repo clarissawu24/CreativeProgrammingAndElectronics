@@ -8,3 +8,6 @@ I originally proposed to create a wave sculpture using mesh cloth as the wave an
 - While trying to figure out what went wrong with the sensor, I mistakenly left the servo running as it continued to tug on the string. One of the strings eventually snapped so note taken: do not use threads, try to use stronger strings. Unfortunately that was the only string like material I had around me, I will try to see if I can buy floss in time to replace the strings. If not I will attempt to tripple thread each corner. 
 
 ***Project Video***
+
+[![kinetic sculpture](IMG_6201.MOV)](IMG_6201.MOV)
+
