@@ -9,5 +9,5 @@ I originally proposed to create a wave sculpture using mesh cloth as the wave an
 
 ***Project Video***
 
-[![kinetic sculpture](IMG_6201.MOV)](IMG_6201.MOV)
+[![kinetic sculpture]](IMG_6201.MOV)
 
