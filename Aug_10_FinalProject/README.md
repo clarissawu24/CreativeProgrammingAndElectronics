@@ -7,6 +7,9 @@ I originally proposed to create a wave sculpture using mesh cloth as the wave an
 -  The ultrasonic sensor worked well until it suddenly started detecting random small values at sudden spurses of time. This was a very last minute issue and will be something I need to work on before the final showcase. I am suspecting that it is a problem with the sensor itself as I've tried rewiring, re-pinning, and moving it onto different spots of the breadboard. The code seems to be ok too. If I am unable to replace the sensor I will try to test out the code introduced in class where the averaged values of the sensor are used rather than the current direct values. 
 - While trying to figure out what went wrong with the sensor, I mistakenly left the servo running as it continued to tug on the string. One of the strings eventually snapped so note taken: do not use threads, try to use stronger strings. Unfortunately that was the only string like material I had around me, I will try to see if I can buy floss in time to replace the strings. If not I will attempt to tripple thread each corner. 
 
+***Project Photo***
+![](wave.png)
+
 ***Project Video***
 
 ![kinetic sculpture](IMG_6201.MOV)
