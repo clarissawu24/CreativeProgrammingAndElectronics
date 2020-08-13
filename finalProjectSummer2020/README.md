@@ -1,6 +1,6 @@
 **"Wave"** 
 
-![](side2.png)
+![](wave_project.png)
 
 ***Project Video:*** [Link](https://www.youtube.com/watch?v=e4VcKBEUEd8&feature=youtu.be)
 
