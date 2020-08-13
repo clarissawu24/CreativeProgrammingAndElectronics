@@ -43,6 +43,9 @@ This is an interactive kinetic sculpture inspired by ocean waves where the "Wave
 - The digital wave was created using the program, Processing. I learned how to use the "noise" function to assign random positions on the screen to generate wave heights from reona396's "Gradiation Wave" on [OpenProcessing](https://www.openprocessing.org/sketch/931254). 
 - I ran into some trouble connecting processing with Arduino as the wave display was dependent on the serial readings from the ultrasonic sensor from the Arduino. Processing was not receiving the proper numbers coming from the ultrasonic sensor and hence did not display with the physical wave. To try to resolve this I tried checking and reassigning my Serial port. I later found that Processing has not been storing any values so I implemented an [if statement](https://create.arduino.cc/projecthub/najad/scaling-an-image-in-processing-with-ultrasonic-sensor-1af551) to keep track of arduino's readings and printed them directly into Processing. I was then able to use the stored values to let Processing know when to display the digital wave. 
 
+- ***Final Thoughts***
+- I learned a lot about Arduino and Processing, as well as physical materials. I overestimated the usability of the materials I gathered and ended up spending more time untangling and readjusting according to the material's physical characteristics than programming. I'm glad I had the opportunity to observe and gain more experience with using different materials at hand and was really happy to learn new funtions on Processing and Arduino. I hope to expand on this project in the future to improve the fluidy and flow of the wave at a larger scale. I'd also like to implement more interactive elements to enhance the overall experience of interacting with the wave, almost as if the viewer was Poseidon.. 
+
 - ***Schematic***
 ![](schematic.jpeg) 
 
