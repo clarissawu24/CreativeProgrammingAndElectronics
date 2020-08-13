@@ -30,6 +30,10 @@ This is an interactive kinetic sculpture inspired by ocean waves where the "Wave
 
 ![](side1.png)
 
+***Project Video:*** [Link](https://www.youtube.com/watch?v=lbmRAlv46dA)
+
+
+
 - Finding that the servos were not able to generate enough motion, I decided to use an extension to assist in making larger ranges of motion by bending curves into a straightened wire hanger. The curves allowed me to tie strings attached to the "Wave" to generate different amplitudes of motion when rotated by the servo. 
 - The mesh cloth was a great reflector of light from the LEDs, though its stiffness hindered the smoothness of the wave motion, I found that some sudden rigid and rapid folds from the cloth gave it a more realistic ocean effect as ocean waves sometimes surge vigorously. 
 - The strings I used to hang the mesh cloth was a bit finicky. They would tangle and move over to other curves, to prevent them to 
