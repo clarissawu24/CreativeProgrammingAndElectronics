@@ -8,7 +8,24 @@ This is an interactive kinetic sculpture inspired by ocean waves where the "Wave
 
 ***Material***
 - Electronic Components: 
-    -  arduino
+    - arduino uno (microcontroller board)
+    - ultrasonic sensor (distance sensor)
+    - continuos servo motor (rotates 360 degrees)
+    - LED neopixels 
+    - breadboard 
+    - 11 jumper wires 
+    
+- Main Sculpture: 
+    - mesh cloth 
+    - string
+    - wire hanger
+    
+- Support Frame:
+    - 4 metal bag displayers (acted as support columns)
+    - 4 wooden dowels
+    - 14x8x1" box (to hold electronic components in place)
+    - 8.7 x 2.25 x 1" box (used to encase servo motor)
+    
 ***Process*** 
 
 
