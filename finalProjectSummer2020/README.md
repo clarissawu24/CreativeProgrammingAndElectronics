@@ -28,6 +28,18 @@ This is an interactive kinetic sculpture inspired by ocean waves where the "Wave
     
 ***Process*** 
 
+![](side1.png)
+
+- Finding that the servos were not able to generate enough motion, I decided to use an extension to assist in making larger ranges of motion by bending curves into a straightened wire hanger. The curves allowed me to tie strings attached to the "Wave" to generate different amplitudes of motion when rotated by the servo. 
+- The mesh cloth was a great reflector of light from the LEDs, though its stiffness hindered the smoothness of the wave motion, I found that some sudden rigid and rapid folds from the cloth gave it a more realistic ocean effect as ocean waves sometimes surge vigorously. 
+- The ultrasonic sensor would at times start malfunctioning as it would start inputting random distances with nothing in front of it. I found that unplugging the sensor then replugging it after a few minutes to allow it to reset its inputs worked most of the time. I also found that surrounding temperature affects the sensor's accuracy. The sensor tends to work better in warmer rooms. Since the ultrasonic detector uses sound waves to detect distance, this makes sense as sound waves travel better in warmer air. 
+
+- ***Schematic***
+![](schematic.jpeg) 
+
+- ***Electronic Components***
+
+
 
 
 
