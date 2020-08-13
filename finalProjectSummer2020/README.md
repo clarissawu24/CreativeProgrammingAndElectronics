@@ -39,7 +39,9 @@ This is an interactive kinetic sculpture inspired by ocean waves where the "Wave
 ![](schematic.jpeg) 
 
 - ***Electronic Components***
-
+![](ec1.jpeg)
+![](ec2.jpeg)
+![](ec3.jpeg)
 
 
 
